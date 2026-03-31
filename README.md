@@ -5,7 +5,7 @@
 
 
 ![HFMNet Overview]
-![teaser](image/Pipeline.png)
+![teaser](Pipeline.png)
 
 ---
 
